@@ -154,10 +154,12 @@ These operations together create a realistic pencil drawing appearance.
 
 ---
 
+
 ## ✏️ Pencil Sketch Output
 
 <p align="center">
   <img width="500" height="500" alt="Screenshot 2026-05-28 225819_sketch" src="https://github.com/user-attachments/assets/867fad67-2995-4fc3-a7b7-8bc655bc15e1"width="250"/>
+
 
 </p>
 
