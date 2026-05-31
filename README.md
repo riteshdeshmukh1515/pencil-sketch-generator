@@ -143,7 +143,7 @@ These operations together create a realistic pencil drawing appearance.
 
 # Example 2 — Anime Character Image
 
-## 🖼️ Original Image
+## 🖼️ Original Image -----------------> ✏️Pencil Sketch Output
 
 <p align="center">
   <img width="500" height="500" alt="Screenshot 2026-05-28 225819" src="https://github.com/user-attachments/assets/843d1b0d-ca08-4247-90ab-f0d87bc94134"width="250/>
