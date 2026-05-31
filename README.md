@@ -1,23 +1,30 @@
 # 🎨 Pencil Sketch Generator
 
-A simple and creative Python project that converts normal images into realistic pencil sketch artworks using OpenCV image processing techniques.
+A Python-based image processing project that converts normal images into realistic pencil sketch artwork using OpenCV techniques. This project demonstrates fundamental computer vision concepts in a simple and beginner-friendly way.
 
 ---
 
 # 📌 Project Overview
 
-The **Pencil Sketch Generator** is an image processing project developed using Python and OpenCV. This application allows users to select an image from their system and automatically transform it into a pencil sketch effect.
+The Pencil Sketch Generator is a computer vision application built using Python and OpenCV. It allows users to select any image from their system and automatically converts it into a pencil sketch.
 
-The project demonstrates important image processing concepts such as grayscale conversion, image inversion, Gaussian blur, and image blending techniques.
+The project focuses on understanding key image processing operations such as:
 
-A graphical file picker using **Tkinter** is integrated for easy image selection and user-friendly interaction.
+Grayscale conversion
+Image inversion
+Gaussian blur
+Image blending (dodging technique)
+
+A simple Tkinter-based file picker is used for easy image selection, making the tool user-friendly and interactive.
 
 ---
 
 # 🚀 Features
 
 ✅ Convert normal images into pencil sketches
+
 ✅ Simple and beginner-friendly project
+
 ✅ Supports multiple image formats:
 
 * JPG
@@ -27,8 +34,11 @@ A graphical file picker using **Tkinter** is integrated for easy image selection
 * WEBP
 
 ✅ Automatic sketch image generation
+
 ✅ Lightweight and fast execution
+
 ✅ GUI-based image selection using Tkinter
+
 ✅ Realistic sketch effect using OpenCV
 
 ---
@@ -118,13 +128,15 @@ These operations together create a realistic pencil drawing appearance.
 ## 🖼️ Original Image
 
 <p align="center">
-  <img src="assets/virat_input.png" width="400">
+ <img width="500" height="500" alt="Screenshot 2026-05-31 112342" src="https://github.com/user-attachments/assets/a473cdc3-af75-4334-ab4e-7bd4657f0ca8"width="250" />
+
 </p>
 
 ## ✏️ Pencil Sketch Output
 
 <p align="center">
-  <img src="assets/virat_output.png" width="400">
+<img width="500" height="500" alt="Screenshot 2026-05-31 112342_sketch" src="https://github.com/user-attachments/assets/5d78676b-def6-4217-9a62-f8040a621db4"width="250"/>
+
 </p>
 
 ---
@@ -134,13 +146,19 @@ These operations together create a realistic pencil drawing appearance.
 ## 🖼️ Original Image
 
 <p align="center">
-  <img src="assets/anime_input.png" width="400">
+  <img width="500" height="500" alt="Screenshot 2026-05-28 225819" src="https://github.com/user-attachments/assets/843d1b0d-ca08-4247-90ab-f0d87bc94134"width="250/>
+
+
+
 </p>
+
+---
 
 ## ✏️ Pencil Sketch Output
 
 <p align="center">
-  <img src="assets/anime_output.png" width="400">
+  <img width="500" height="500" alt="Screenshot 2026-05-28 225819_sketch" src="https://github.com/user-attachments/assets/867fad67-2995-4fc3-a7b7-8bc655bc15e1"width="250"/>
+
 </p>
 
 ---
@@ -162,9 +180,13 @@ This project helps in understanding:
 # 🔮 Future Improvements
 
 🚀 Add real-time webcam sketch generation
+
 🚀 Create a desktop GUI application
+
 🚀 Add multiple artistic filters
+
 🚀 Export sketches in different resolutions
+
 🚀 Build a web version using Flask or Streamlit
 
 ---
